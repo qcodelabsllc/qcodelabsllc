@@ -1,7 +1,7 @@
 [Dennis Bilson]
 [quabynahdennis@gmail.com]
 [Accra, Greater Accra, Ghana]
-[+233554022344]
+[+233554022344][+233554635701]
 
 Summary:
 Highly motivated and experienced senior software engineer with 8+ years of experience in developing, testing, and deploying high-quality software applications. Proficient in various programming languages and technologies such as Dart, Java, Go, Python, and JavaScript. Adept at collaborating with cross-functional teams and managing multiple projects simultaneously. Seeking a challenging role where I can utilize my skills and experience to contribute to the growth of the organization.
